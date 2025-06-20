@@ -1,2 +1,3 @@
-# ncov
-SARS-CoV-2 data from DDBJ &amp; GISAID
+# data
+Data repository for information cited or used in DDBJ webpages
+
